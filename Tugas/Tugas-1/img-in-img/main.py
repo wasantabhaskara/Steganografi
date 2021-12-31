@@ -108,5 +108,4 @@ if pil == 1:
 elif pil == 2:
     img3 = input("masukan gambar: ")
     print("ekstraksi....")
-    unmerger(img3, 'extracted.png')
-    print("'extracted.png' adalah gambar rahasia")
+    unmerger(img3, 'extracted.png'
