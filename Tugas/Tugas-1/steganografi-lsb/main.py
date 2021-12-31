@@ -94,4 +94,3 @@ def Stego():
             print("ERROR: Invalid option chosen")
 
 if __name__ == '__main__':
-    Stego()
